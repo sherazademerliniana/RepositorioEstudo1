@@ -1,0 +1,21 @@
+main{ 
+    max-width: 500px;
+    border: 1px #1b1a28 solid;
+    background-color:#5380dc;
+}
+
+section{
+    max-width:  400px center;
+    background-color: white;
+    text-align: center;
+}
+
+
+h1 {
+    font-weight: 25px;
+    color: #205ec2;
+}
+
+h2{
+    font-weight: 18px;
+}
